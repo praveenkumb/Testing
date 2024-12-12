@@ -1,5 +1,5 @@
 #!/bin/bash
-#Adding new user
+#Adding new user to linux OS
 
 read -p "Please enter username:  " newuser
 if id $newuser &>/dev/null;

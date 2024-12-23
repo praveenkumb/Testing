@@ -1,4 +1,4 @@
 Hi this is my new project
 #!/bin/bash
 Hostname = hostname
-echo "Hostname is $hostname"
+echo "My hostname is $hostname"
